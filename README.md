@@ -7,7 +7,7 @@ I'm a CS Major at [The University of Texas at Dallas](https://www.utdallas.edu/)
 - 📢 Organizing [Hackathons](https://hackutd.co/)!
 
 ## 📫 Contact Me
-[💬 LinkedIn](https://www.linkedin.com/in/sarah-jacob) | [📧 Email](mailto:sarannjac@gmail.com)
+[💬 LinkedIn]([https://www.linkedin.com/in/sarah-jacob](https://www.linkedin.com/in/sarah-ann-jacob/)) | [📧 Email](mailto:sarannjac@gmail.com)
 
 ## 🛠 Tools
 ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/commons/6/6f/Java_logo_%282013%29.svg&logoColor=white&logoSize=auto&link=https%3A%2F%2Fwww.java.com%2F)
