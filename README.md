@@ -29,7 +29,7 @@ I'm a CS Major at [The University of Texas at Dallas](https://www.utdallas.edu/)
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white&logoSize=auto&link=https%3A%2F%2Fwww.figma.com%2F)
 
 ### 🌱 Currently Learning
-![Blender](https://img.shields.io/badge/Blender-black?style=for-the-badge&logo=blender&logoColor=white&logoSize=auto&link=https%3A%2F%2Fwww.blender.org%2F)|
+![Blender](https://img.shields.io/badge/Blender-black?style=for-the-badge&logo=blender&logoColor=white&logoSize=auto&link=https%3A%2F%2Fwww.blender.org%2F)
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saj62&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- |
