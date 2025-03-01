@@ -3,7 +3,7 @@
 I'm a CS Major at [The University of Texas at Dallas](https://www.utdallas.edu/). I love making projects that have a real impact. Aside from coding, you might find me:
 - ✏️ [Drawing](https://www.instagram.com/borschtsoupart/)
 - ✈️ Traveling
-- 🎸 Listening to Rock Music
+- 🎸 Listening to [Rock Music](https://music.apple.com/us/playlist/dio/pl.u-76oNlPbuWMVg6Mq)
 - 📢 Organizing [Hackathons](https://hackutd.co/)!
 
 ## 📫 Contact Me
