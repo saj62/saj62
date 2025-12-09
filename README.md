@@ -33,9 +33,6 @@ I'm a CS Major at [The University of Texas at Dallas](https://www.utdallas.edu/)
 ![Terraform](https://img.shields.io/badge/Terraform-black?style=for-the-badge&logo=terraform&logoColor=white&logoSize=auto&link=https%3A%2F%2Fwww.terraform.io%2F)
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saj62&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- |
-
 <!-- 
   | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=saj62&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sarah's Github Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saj62&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
