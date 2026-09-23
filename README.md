@@ -1,6 +1,8 @@
 # Hi, I'm Sarah! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I'm a CS Major at [The University of Texas at Dallas](https://www.utdallas.edu/). I love making projects that have a real impact. Aside from coding, you might find me:
+I'm a CS Major at [The University of Texas at Dallas](https://www.utdallas.edu/). I make cool projects sometimes :) 
+
+You may also find me:
 - ✏️ [Drawing](https://www.instagram.com/borschtsoupart/)
 - ✈️ Traveling
 - 🎸 Listening to [Rock Music](https://music.apple.com/us/playlist/dio/pl.u-76oNlPbuWMVg6Mq)
